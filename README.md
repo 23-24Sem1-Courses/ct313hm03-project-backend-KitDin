@@ -16,7 +16,7 @@ Học kỳ 1, Năm học 2023-2024
 
 **Tên dự án**: Xây dựng mạng xã hội inC
 
-## builder project
+## Build setup
 
 ```bash
 # run server
