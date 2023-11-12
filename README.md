@@ -19,14 +19,19 @@ Học kỳ 1, Năm học 2023-2024
 ## Build setup
 
 ```bash
-# run server
-npm install
-npm run dev
 
 # setup mysql with "create database < the database name >"
 create database inc_socialmedia
 
+# Create all tables in the file db-SocialMedia.sql
+
 # .env file change some val
 DB='Name of db'
+
+
+# run server
+npm install
+npm run dev
+
 
 ```
